@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_boss",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_boss",
+  "parent":{
+    "name":"boss_1",
+    "path":"folders/boss_1.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
